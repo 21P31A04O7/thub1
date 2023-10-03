@@ -1,0 +1,52 @@
+vcs - version control system
+       track the changes
+       gitlab or github - remote/cloud vcs
+
+bitbucket
+git desktop
+
+gitbash - remote/cloud vcs
+
+
+vcs-ci/cd - jenkins
+
+
+ssh-keygen -t rsa -b 2048 -C "21P31A04O7@acet.ac.in"
+
+
+
+
+
+echo "# Gayathri_123" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/21P31A04O7/Gayathri_123.git
+git push -u origin main
+
+
+
+
+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
+github access token
+
+
+
+
+echo "# thub1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/21P31A04O7/thub1.git
+git push -u origin main
+
+
+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
+
+
+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
+
+
+       
